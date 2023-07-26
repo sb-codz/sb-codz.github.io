@@ -1,10 +1,8 @@
-Sure, below is a more comprehensive version of the privacy policy for "Lottery Gazettes Result & Sambad," including links to third-party service providers:
 
----
 
 **Privacy Policy for Lottery Gazettes Result & Sambad**
 
-**Effective date: [Date]**
+**Effective date: 26/07/2023 **
 
 Thank you for using "Lottery Gazettes Result & Sambad" (referred to as the "App"). This privacy policy explains how we collect, use, and disclose information from users of the App.
 
@@ -43,7 +41,7 @@ a. We take reasonable measures to protect the non-personal information collected
 
 **6. Children's Privacy**
 
-a. The "Lottery Gazettes Result & Sambad" app is not intended for use by individuals under the age of 15. We do not knowingly collect personal information from children under the age of 15. If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us at [Your Contact Information], and we will take steps to remove the information from our systems.
+a. The "Lottery Gazettes Result & Sambad" app is not intended for use by individuals under the age of 15. We do not knowingly collect personal information from children under the age of 15. If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us at [smaxwap@gmail.com] , and we will take steps to remove the information from our systems.
 
 b. If you are under the age of 15, please do not use the "Lottery Gazettes Result & Sambad" app or provide any personal information through the App. If we discover that we have collected personal information from a child under the age of 15 without parental consent, we will take immediate steps to delete that information.
 
@@ -59,8 +57,4 @@ a. We reserve the right to update or modify this privacy policy at any time. Cha
 
 **9. Contact Us**
 
-a. If you have any questions or concerns about this privacy policy or the App's data handling practices, please contact us at [Your Contact Information].
-
----
-
-Please ensure that you replace "[Date]" with the actual effective date of the privacy policy and include your contact information in section 9. Additionally, make sure to review and possibly modify the provided privacy policy with the help of a legal professional to ensure it accurately reflects your app's data collection practices and complies with applicable laws and regulations.
+a. If you have any questions or concerns about this privacy policy or the App's data handling practices, please contact us at [smaxwap@gmail.com ].
