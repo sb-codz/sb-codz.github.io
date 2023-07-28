@@ -1,0 +1,16 @@
+
+body {
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.expandable-content {
+            display: none;
+            overflow: hidden;
+        }
+        .expand-button {
+            cursor: pointer;
+        }
