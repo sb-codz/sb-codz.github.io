@@ -55,12 +55,14 @@ Our App uses third-party services that may collect and process information as ou
 Our App may include links to external websites for additional resources or information. These websites are not operated by us. We recommend reviewing their privacy policies and terms of use. Below are examples of external links that may appear in the App:
 
 - [Nagaland State Lotteries](https://www.nagalandlotteries.com) – for checking lottery results.
-- [Kerala State Lotteries](https://www.keralalotteries.com) – for Kerala state lottery updates.
-- [Sikkim Lotteries](https://www.sikkimlotteries.com) – for Sikkim lottery results.
-- [Banglar Mukh](https://www.banglarmukh.gov.in) – for West Bengal lottery resources.
+- [Nagaland State Lottery](https://nagalandstatelottery.in) – for additional lottery updates.
+- [Lottery Sambad Dear](https://lotterysambaddear.in) – for accessing lottery draw information.
+
+- [Arunachal Pradesh Lottery](https://arunachalpradeshlottery.org) – for Arunachal Pradesh lottery results.
+- [Kerala Lottery Results](https://result.keralalotteries.com) – for checking Kerala state lottery results.
+- [Manipur Lotteries](https://manipurlotteries.com/Home) – for Manipur lottery updates.
 
 We do not take responsibility for the privacy practices, content, or services provided by these websites. Users interact with these external links at their own discretion.
-
 ---
 
 ### Data Sharing and Disclosure
