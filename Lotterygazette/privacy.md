@@ -63,6 +63,7 @@ Our App may include links to external websites for additional resources or infor
 - [Manipur Lotteries](https://manipurlotteries.com/Home) – for Manipur lottery updates.
 
 We do not take responsibility for the privacy practices, content, or services provided by these websites. Users interact with these external links at their own discretion.
+
 ---
 
 ### Data Sharing and Disclosure
